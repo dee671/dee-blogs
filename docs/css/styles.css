@@ -1,0 +1,92 @@
+.social-icon 
+{
+    color: #3a2020;
+    transition: 10ms;
+
+}
+.form-control
+{
+    font-size: medium;
+    size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.media
+{
+    text-align: right;
+    font-size: 35px;
+    margin: 10px 30px;
+    
+}
+img 
+{
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+      width: 100px;
+}
+.img-thumbnail
+{
+    height: 250px;
+    width: 250px;
+}
+    
+img:hover 
+{
+      box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+    
+.comment
+{
+    font-size: medium;
+    font-style: unset;
+    text-decoration: solid;
+}
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2
+{
+    size: 20px;
+    color: rgb(214, 221, 202);
+    font-style: oblique;
+}
+h3
+{
+    stroke-width: 30pt;
+    text-shadow: rgb(189, 66, 66);
+    text-decoration-color: mistyrose;
+}
+h4
+{
+    text-align: center;
+    padding: 75px;
+    font-style: initial;
+    font-family: cursive;
+    color: goldenrod;
+}
+h5
+{
+    font-weight: bolder;
+    font-family: serif;
+    font-size: 50px;
+}
+
+P
+{
+    color: darkcyan;
+}
+ul
+{
+    font-style: oblique;
+    size: 20px;
+}
+
+.btn
+{
+    color: rgb(98, 142, 199);
+}
+address {
+    display: block;
+    font-style: italic;
+  }
